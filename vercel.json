@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/rednote.js": {
+      "maxDuration": 10
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "name": "rednote-vercel",
   "version": "1.0.0",
+  "description": "Serverless Puppeteer API untuk scrape RedNote/xhslink",
   "type": "module",
+  "main": "api/rednote.js",
+  "scripts": {
+    "start": "node api/rednote.js"
+  },
+  "keywords": ["puppeteer", "chromium", "rednote", "serverless", "vercel", "scraper"],
+  "author": "Robin",
+  "license": "ISC",
   "dependencies": {
     "puppeteer-core": "20.9.0",
     "@sparticuz/chromium": "119.0.0"

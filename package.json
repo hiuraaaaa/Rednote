@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "puppeteer-core": "^22.8.2",
-    "@sparticuz/chrome-aws-lambda": "^21.1.0"
+    "puppeteer-core": "20.9.0",
+    "@sparticuz/chrome-aws-lambda": "20.0.0"
   }
 }
